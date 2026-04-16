@@ -79,13 +79,11 @@
       "0 0 1 * *"
     ]
   },
-{
   "observability": {
     "logs": {
       "enabled": true,
       "invocation_logs": true
     }
   }
-}
 }
 

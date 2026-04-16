@@ -32,14 +32,16 @@
     // If OneDrive is not Microsoft-operated (e.g. 21Vianet), modify these settings
     // 世纪互联需修改下列参数
     "OAUTH": {
-      "clientId": "18c5deff-68d7-41a3-9e01-6000c3c3a020",
-      "clientSecret": "d33bce267-a388-4550-9f75-dfe2771018d",
+      "clientId": "78d4dc35-7e46-42c6-9023-2d39314433a5",
+      "clientSecret": "ZudGl-p.m=LMmr3VrKgAyOf-WevB3p50",
       "redirectUri": "https://fodi.postgraduategyz.workers.dev/deployreturn",
       "loginHost": "https://login.microsoftonline.com",
       "oauthUrl": "https://login.microsoftonline.com/common/oauth2/v2.0/",
       "apiHost": "https://graph.microsoft.com",
       "apiUrl": "https://graph.microsoft.com/v1.0/me/drive/root",
       "scope": "offline_access User.Read Files.ReadWrite.All"
+    }
+
     },
     "PROTECTED": {
       // Exposed root path, fill in like '/media/music'

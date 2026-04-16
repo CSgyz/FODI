@@ -34,7 +34,7 @@
     "OAUTH": {
       "clientId": "78d4dc35-7e46-42c6-9023-2d39314433a5",
       "clientSecret": "ZudGl-p.m=LMmr3VrKgAyOf-WevB3p50",
-      "redirectUri": "http://localhost/onedrive-login",
+      "redirectUri": "https://fodi.postgraduategyz.workers.dev/deployreturn",
       "loginHost": "https://login.microsoftonline.com",
       "oauthUrl": "https://login.microsoftonline.com/common/oauth2/v2.0/",
       "apiHost": "https://graph.microsoft.com",

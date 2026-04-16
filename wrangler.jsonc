@@ -14,9 +14,11 @@
   },
   "kv_namespaces": [
     {
-      "binding": "FODI_CACHE",
-      // "preview_id": "", // for development
-      "id": "" // <~ https://dash.cloudflare.com/?to=/:account/workers/kv/namespaces
+      "binding": "KV",
+      "id": "0ddba4911deb445fb9288f9eedbd6a36",
+      
+      // Optional: preview_id used when running `wrangler dev` for local dev
+      "preview_id": "<ID_OF_PREVIEW_KV_NAMESPACE_FOR_LOCAL_DEVELOPMENT>"
     }
   ],
   "vars": {
@@ -78,3 +80,4 @@
     ]
   }
 }
+

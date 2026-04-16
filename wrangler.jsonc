@@ -72,7 +72,7 @@
       "Access-Control-Allow-Origin": "*",
       "Access-Control-Allow-Headers": "Content-Type",
       "Access-Control-Max-Age": "604800"
-    }
+    },
   },
   // "build": {
   //   "command": "npm run build"

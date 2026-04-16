@@ -40,8 +40,6 @@
       "apiHost": "https://graph.microsoft.com",
       "apiUrl": "https://graph.microsoft.com/v1.0/me/drive/root",
       "scope": "offline_access User.Read Files.ReadWrite.All"
-    }
-
     },
     "PROTECTED": {
       // Exposed root path, fill in like '/media/music'
